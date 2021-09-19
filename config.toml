@@ -1,5 +1,5 @@
 baseURL = "https://competent-mcnulty-95b08c.netlify.app/"
-title   = "s"
+title   = ""
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -158,14 +158,14 @@ disableHugoGeneratorInject = false
 [languages]
   [languages.en]
     subtitle  = "jannik fath - bim specialist"
-    weight    = 2
+    weight    = 5
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "about"
     url        = "about/"
   [[menu.main]]
     identifier = "blog"
