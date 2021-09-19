@@ -137,7 +137,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/heinz-eisele-7800b51a7/"
+    url  = "https://www.linkedin.com/in/jannik-fath-7800b51a7/"
 
 
 [languages]
@@ -152,7 +152,3 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "about"
     url        = "about/"
-  [[menu.main]]
-    identifier = "blog"
-    name       = "blog"
-    url        = "blog/"
