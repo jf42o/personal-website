@@ -1,4 +1,4 @@
-baseURL = "https://competent-mcnulty-95b08c.netlify.app/"
+baseURL = "https://www.jfath.xyz"
 title   = ""
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -64,11 +64,7 @@ disableHugoGeneratorInject = false
   disableReadOtherPosts = false
 
   # Enable theme toggle
-  # 
-  # This options enables the theme toggle for the theme. 
-  # Per default, this option is off. 
-  # The theme is respecting the prefers-color-scheme of the operating systeme. 
-  # With this option on, the page user is able to set the scheme he wants. 
+
   enableThemeToggle = true
 
   # Sharing buttons
@@ -124,17 +120,6 @@ disableHugoGeneratorInject = false
     # logoCursorColor    = "#68a2c8"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "4s"
-
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
-  # A better internet.
-  # Uncomment this to enable Commento.
-  #
-  # [params.commento]
-  #   url = ""
 
 
   # Social icons
