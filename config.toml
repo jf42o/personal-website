@@ -1,5 +1,5 @@
 baseURL = "https://competent-mcnulty-95b08c.netlify.app/"
-title   = " "
+title   = "s"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -104,7 +104,7 @@ disableHugoGeneratorInject = false
     author = false
 
     topText = [ 
-        "Jannik Fath
+        "Jannik Fath"
         ]
     
   # Colors for favicons
